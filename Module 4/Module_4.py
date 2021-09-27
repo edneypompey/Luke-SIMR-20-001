@@ -14,7 +14,15 @@ def is_year_even(year): # define the function, with a year (parameter)
     else:               # otherwise
         return False    # terminate the function's execution, with False
         
-print(is_year_even(1900))   # printing test data
-print(is_year_even(2000))
-print(is_year_even(2016))
-print(is_year_even(1987))
+print(is_year_even(1900))    # printing test data, expceting it to be True
+print(is_year_even(2000))    # printing test data, expceting it to be True
+print(is_year_even(2016))    # printing test data, expceting it to be True
+print(is_year_even(1987))    # printing test data, expceting it to be False
+
+# 4.3.1.7 LAB: How many days: writing and using your own functions
+# 4.3.1.8 LAB: Day of the year: writing and using your own functions
+# 4.3.1.9 LAB: Prime numbers - how to find them
+
+# # Haven't completed these because I do not understand the theory in netacad.
+
+
